@@ -1,6 +1,6 @@
 # Restaurant-Recommendation-System
 
-To analyse the data given and find the best Restaurant in our locality.
+To analyse the data given and find the best Restaurant in the given locality.
 
 To use the recommendation system run RRS.py: python3 RRS.py
 To skip an Input you can enter 'skip' or a relevant value
