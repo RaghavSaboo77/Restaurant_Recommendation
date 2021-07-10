@@ -1,3 +1,5 @@
+# importing the libraries
+
 from sklearn.preprocessing import StandardScaler
 from sklearn.neighbors import NearestNeighbors
 from sklearn.cluster import AgglomerativeClustering
